@@ -1,20 +1,24 @@
 # vue-api-test
 
-### 🔥 Simple CRUD App with Vue 3, Pinia, and Vanilla CSS 🔥
+## 🔥 Simple CRUD App with Vue 3, Pinia, and Vanilla CSS 🔥
 
-📌 Features
-✅ CRUD Operations (Create, Read, Update, Delete)
-✅ Pinia for State Management
-✅ Error Handling
-✅ Search Feature (Debounced for better performance)
-✅ Vanilla CSS Modal (No external UI libraries)
-✅ Single-Page Application (Everything runs on one page)
+### 📌 Features
 
-🚀 Tech Stack
-Vue 3 (Composition API)
-Pinia (State Management)
-Fetch API (for handling API requests)
-Vanilla CSS (No Tailwind, Bootstrap, or external frameworks)
+✅ **CRUD Operations** (Create, Read, Update, Delete)  
+✅ **Pinia for State Management**  
+✅ **Error Handling**  
+✅ **Search Feature** (Debounced for better performance)  
+✅ **Vanilla CSS Modal** (No external UI libraries)  
+✅ **Single-Page Application** (Everything runs on one page)
+
+---
+
+### 🚀 Tech Stack
+
+- **Vue 3** (Composition API)
+- **Pinia** (State Management)
+- **Fetch API** (for handling API requests)
+- **Vanilla CSS** (No Tailwind, Bootstrap, or external frameworks)
 
 This template should help get you started developing with Vue 3 in Vite.
 
